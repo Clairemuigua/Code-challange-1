@@ -1,4 +1,4 @@
-Certainly! Here are the instructions for the code challenge in a README.md file format:
+
 
 # Code Challenge: HTML, CSS, and Bootstrap
 
