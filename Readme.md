@@ -6,7 +6,7 @@ Your task is to create a web page that meets the following requirements:
 
 ## Requirements
 
-1. Create an HTML file named "index.html".
+1. We have Created an HTML and CSS files named "index.html" "Styles.css" for you.
 2. Use Bootstrap to style the web page.
 3. Include a table with at least 5 rows and 3 columns.
 4. Add a header row to the table that includes meaningful column names.
