@@ -1,0 +1,31 @@
+.card{
+    padding:20px ;
+    font-family:sans-serif ;
+    color:palegreen;
+}
+.dropdown-item{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 5px;
+    color: plum;
+    font-size: large;
+    font-weight: bold;
+}
+.list-group-item{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 5px;
+    color: rgb(89, 2, 89);
+    font-size: medium;
+    font-weight: bold;
+}
+.table {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 5px;
+    color: rgb(228, 130, 228);
+    font-size: medium;
+    border-color: rgb(168, 35, 79);
+    font-style: italic;
+    font-family: sans-serif;
+}
